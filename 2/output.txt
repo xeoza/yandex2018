@@ -1,0 +1,16 @@
+OK
+OK
+OK
+OK
+OK
+9:00 30 alex gandon 
+12:00 30 alex sergey 
+12:30 30 andrey alex 
+12:60 60 alex andrey 
+12:30 30 andrey alex 
+12:60 60 alex andrey 
+12:00 30 alex sergey 
+9:00 30 alex gandon 
+12:00 30 alex sergey 
+12:30 30 andrey alex 
+12:60 60 alex andrey 
